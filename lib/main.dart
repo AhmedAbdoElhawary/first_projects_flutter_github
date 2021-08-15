@@ -9,7 +9,7 @@ void main() {
   runApp(MyFirstApp());
   DioHelper.init();
 }
-//BMI calculator and second screen
+//BMI calculator
 
 class MyFirstApp extends StatelessWidget{
   @override
